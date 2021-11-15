@@ -1,2 +1,2 @@
 # omc-devops
-task devops
+task for devops
